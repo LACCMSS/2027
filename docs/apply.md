@@ -22,5 +22,5 @@ To apply for the summer school, please fill out the Google Form below:
 
 <br>
 
-<br>.  If you are a LANL student, postdoc, or staff member who are currently on-site, no registration is required and you welcome to attend the entire two-week program or individual lectures/hands-on sessions of interest.
+<br>If you are a LANL student, postdoc, or staff member who are currently on-site, no registration is required and you welcome to attend the entire two-week program or individual lectures/hands-on sessions of interest.
 
