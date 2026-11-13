@@ -3,17 +3,9 @@ hide:
   - navigation
   - toc
   - path
-title: Los Alamos Computational Condensed Matter Summer School 2026
+title: Los Alamos Computational Materials Science Summer School 2026
 template: home.html
 ---
-
-<!--
-# Los Alamos Computational Condensed Matter Summer School 2026<br>- Closing the Loop Between Experiment and Theory
-
-<p align="center">
-  <img src="assets/images/lanl.jpg" width="50%" height="50%" />
-</p>
--->
 
 <style>
 p.pos_fixed {
@@ -39,15 +31,10 @@ Registration is required for non-LANL participants who will receive travel, room
 |       | Date |
 |-------|------|
 | Application open | <s>December 1, 2025</s> |
-| Application deadline | <s>January 18, 2026</s> <i style="text-color:Tomato;">Application window is closed.</i> |
-| Results announced | <s>February 6, 2026</s> <strong>February 19, 2025</strong> <i style="text-color:Tomato;">Notice of Acceptance Sent.</i> |
-| Registration | <s>February 28, 2026</s>  <i style="text-color:Tomato;">Complete.</i>|
-| LANL onboarding package deadlne | <s>March 7, 2026</s>  <i style="text-color:Tomato;">Submitted.</i>|
-| Travel Itinerary Submitted | <s>May 30, 2026</s> <i style="text-color:Tomato;">Complete.</i>|
+| Application deadline | <s>January 11, 2027</s> |
 | Poster Title and Lightning Slide Submitted |<s>June 1, 2026</s> <i style="text-color:Tomato;">Complete.</i>|
-| Arrival and Check-in | June 14, 2026 |
-| LACCM Summer School | June 15-26, 2026 |
-| Departure | June 27, 2026 |
+| Check-in | June 6, 2026 |
+| LACMS<sup>3</sup> Summer School | June 7 - August 13, 2026 |
 
 
 ## Topics Include
@@ -64,10 +51,9 @@ Registration is required for non-LANL participants who will receive travel, room
 * Christopher Lane, Theoretical Division, Los Alamos
 * Roxanne Tutchton, Theoretical Division, Los Alamos
 * Elizabeth Peterson, Theoretical Division, Los Alamos
-* Jianxin Zhu, Theoretical Division, Los Alamos
 * Ying Wai Li, Computing and Artificial Intelligence Division, Los Alamos
 * Andrew Jones, Center for Integrated Nanotechnologies, Los Alamos
-* Alessandro Mazza, Materials Science and Technology Division, Los Alamos
+
 
 
 
