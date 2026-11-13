@@ -30,11 +30,11 @@ Registration is required for non-LANL participants who will receive travel, room
 ## Important Dates:
 |       | Date |
 |-------|------|
-| Application open | December 1, 2025 |
+| Application open | December 1, 2026 |
 | Application deadline | January 11, 2027 |
-| Poster Title and Lightning Slide Submitted | June 1, 2026 |
-| Check-in | June 6, 2026 |
-| LACMS<sup>3</sup> Summer School | June 7 - August 13, 2026 |
+| Poster Title and Lightning Slide Submitted | June 1, 2027 |
+| Check-in | June 6, 2027 |
+| LACMS<sup>3</sup> Summer School | June 7 - August 13, 2027 |
 
 
 ## Topics Include
