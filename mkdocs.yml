@@ -1,0 +1,91 @@
+# Project Information
+site_name: Los Alamos Computational Materials Science Summer School 2027
+site_url: https://lacmsss.org
+
+copyright: Copyright &copy; 2027 LACMSSS
+
+# Mkdocs Theme (Material Mkdocs)
+theme:
+  name: material
+  custom_dir: docs/overrides
+  locale: en
+  icon:
+    logo: material/atom-variant
+  favicon: assets/images/favicon_32.png
+  
+  font:
+    text: SN Pro
+
+  palette: 
+    - scheme: LANL_light
+
+  features:
+#    - announce.dismiss
+#    - navigation.instant
+#    - navigation.instant.progress
+#    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+#    - navigation.sections
+    - content.tabs.link
+
+nav:
+  - Overview: index.md
+  - Apply: apply.md
+  - Schedule: schedule.md
+  - Lecturers: lecturers.md
+  - Lecture Notes: lecture_notes.md
+  - 'Hands-on Tutorials':
+    - 'Accessing LANL HPC': hpc.md
+  #  - 'Density Functional Theory (DFT)': dft.md
+  #  - 'Molecular dynamics (MD)': md.md
+  #  - 'FEFF': feff.md
+  #  - "Green's Functions": gf.md
+  #  - "GW+BSE": bse.md
+  #  - "DCA++": dca.md
+  #  - FitSNAP: fitsnap.md
+  - Venue/Travel: location.md
+  - Contact: contact.md
+  - "Previous Schools": archive.md
+
+extra:
+  generator: false
+#  homepage: https://laccmss.org
+
+extra_css:
+  - stylesheets/extras.css
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - abbr
+  - admonition
+  - def_list
+  - footnotes
+  - toc:
+      permalink: true
+
+# Python Markdown Extensions
+#  - pymdownx.arithmatex:
+#      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+
