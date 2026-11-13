@@ -30,9 +30,9 @@ Registration is required for non-LANL participants who will receive travel, room
 ## Important Dates:
 |       | Date |
 |-------|------|
-| Application open | <s>December 1, 2025</s> |
-| Application deadline | <s>January 11, 2027</s> |
-| Poster Title and Lightning Slide Submitted |<s>June 1, 2026</s> <i style="text-color:Tomato;">Complete.</i>|
+| Application open | December 1, 2025 |
+| Application deadline | January 11, 2027 |
+| Poster Title and Lightning Slide Submitted | June 1, 2026 |
 | Check-in | June 6, 2026 |
 | LACMS<sup>3</sup> Summer School | June 7 - August 13, 2026 |
 
