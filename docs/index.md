@@ -52,7 +52,12 @@ Registration is required for non-LANL participants who will receive travel, room
 * Roxanne Tutchton, Theoretical Division, Los Alamos
 * Elizabeth Peterson, Theoretical Division, Los Alamos
 * Ying Wai Li, Computing and Artificial Intelligence Division, Los Alamos
-* Andrew Jones, Center for Integrated Nanotechnologies, Los Alamos
+* Andrew Jones, Center for Integrated Nanotechnologies
+* Joshua Leveillee, Computational Physics Division, Los Alamos
+* Christopher Mizzi, National High Magnetic Field Laboratory: Pulsed Field Facility
+* Megan Davis, Theoretical Division, Los Alamos
+* Sabrina Li, Computational Physics Division, Los Alamos
+* Sarah Stangl, Theoretical Design, Los Alamos
 
 
 
