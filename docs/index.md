@@ -40,7 +40,7 @@ Registration is required for non-LANL participants who will receive a fellowship
 |-------|------|
 | Application open | December 1, 2026 |
 | Application deadline | January 11, 2027 |
-| Poster Title and Lightning Slide Submitted | June 1, 2027 |
+| Poster Title and Lightning Slide Submitted | May 25, 2027 |
 | Check-in | June 6, 2027 |
 | LACMS<sup>3</sup> Summer School | June 7 - August 13, 2027 |
 
