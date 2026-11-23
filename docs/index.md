@@ -33,7 +33,7 @@ Registration is required for non-LANL participants who will receive a fellowship
 <p class="pos_fixed"><img src="assets/images/sponsors.png" width="55%" height="55%"></p>
 
 
-<strong style="color:red;">All LANL students, postdocs, and staff who are currently on-site do not need to register and are welcome to attend the entire two-week program or individual lectures/hands-on sessions of interest.</strong>
+<strong style="color:red;">All LANL students, postdocs, and staff who are currently on-site do not need to register and are welcome to attend the entire program or individual lectures of interest.</strong>
 
 ## Important Dates:
 |       | Date |
