@@ -26,6 +26,8 @@ Additionally, the students will visit three user facilities to show how the tech
 
 This school is open to theoretical, computational, and experimental science students who have completed at least one year of graduate work and are familiar with advanced quantum mechanics and statistical mechanics. Each student will have the opportunity to present their work from their home institution to kick-off the school and present a talk at the close of the school on their summer research. Both events, along with various social activities, e.g., BBQs, Hikes, picnics, are open to the whole LANL community to encourage in-depth discussion and networking. This school will help train the next generation of researchers to use and develop these tools and methods in their own research programs. 
 
+We note that both US citizens and non-US citizens are eligible to apply (citizenship is not a requirement).
+
 Registration is required for non-LANL participants who will receive a fellowship stipend cover living expenses and travel.
 
 <p class="pos_fixed"><img src="assets/images/sponsors.png" width="55%" height="55%"></p>
