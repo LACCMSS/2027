@@ -28,7 +28,7 @@ This school is open to theoretical, computational, and experimental science stud
 
 We note that both US citizens and non-US citizens are eligible to apply (citizenship is not a requirement).
 
-Registration is required for non-LANL participants who will receive a fellowship stipend cover living expenses and travel.
+Registration is required for non-LANL participants who will receive a fellowship stipend to cover living expenses and travel.
 
 <p class="pos_fixed"><img src="assets/images/sponsors.png" width="55%" height="55%"></p>
 
