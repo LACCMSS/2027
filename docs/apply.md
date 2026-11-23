@@ -16,7 +16,7 @@ To apply for the summer school, please fill out the Google Form below:
 
 
 
-<br>Thank you for your interest, but the applicaiton period has now ended.
+<br>Thank you for your interest, the application period will open soon.
 
 
 
